@@ -1,6 +1,8 @@
-# simple-quote-page
+# Simple-quote-page
 
-Bild With :
+Build With :
+
+
 HTML5
 CSS3
 
